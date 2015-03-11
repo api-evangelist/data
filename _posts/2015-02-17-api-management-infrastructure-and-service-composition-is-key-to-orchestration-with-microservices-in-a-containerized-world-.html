@@ -1,0 +1,12 @@
+---
+layout: post
+title: 'API Management Infrastructure And Service Composition Is Key To Orchestration With Microservices In A Containerized World ·'
+url: http://apievangelist.com/2015/02/02/api-management-infrastructure-and-service-composition-is-key-to-orchestration-with-microservices-in-a-containerized-world/
+source: http://apievangelist.com/2015/02/02/api-management-infrastructure-and-service-composition-is-key-to-orchestration-with-microservices-in-a-containerized-world/
+domain: apievangelist.com
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150202api-management-infrastructure-and-service-composition-is-key-to-orchestration-with-microservices-in-a-containerized-world.png
+---
+
+<p>02 Feb 2015   
+As I work to redefine my world using microservices, I have this sudden realization how important my API management infrastructure is to all of this.Each one of my microservices are little APIs that do one thing, and do it well, relying on my API management infrastructure to know who should be accessing, and exactly how much of the resource they should have access to.My note API shouldn’t have to know anything about my users, it is just trained to ask my API management infrastructure, if each user has proper credentials to accessing the resource, and what the service composition will allow them to do with it (aka read, write, how much, etc.) My note API does what it does best, store notes, and relies on my API management layer to do what it does best--manage access to the microservice.This approach to API management has llowed me to deploy any number of microservices, using my API management infrastructure to compose my various service packages—this is called service composition.</p>
+
