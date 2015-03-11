@@ -106,21 +106,6 @@
 			"tags": "Data,Link-Stack,URL Shortener"
 		},
 		{
-			"id": "708",
-			"name": "u041cu0435u0434u0432u0435u0434u0435u0432u0430rn u041du0438u043du0430rn",
-			"summary": false,
-			"details": "",
-			"website": "http://www.bluekai.com/exchange_integration.php",
-			"twitter": "https://twitter.com/bluekai",
-			"github": "https://github.com/BlueKai",
-			"blog": "http://blogs.bluekai.com/",
-			"blogrss": "",
-			"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/708_logo.png",
-			"logo_width": "150",
-			"screenshot": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/api/screenshots/3446_bluekai.png",
-			"tags": "Analytics,Audience,Business Intelligence,Data,Management,Marketing"
-		},
-		{
 			"id": "1388",
 			"name": "Bugswarm",
 			"summary": "Acquire data from and control embedded devices using JavaScript or plain old HTTP.",
@@ -130,7 +115,7 @@
 			"github": "",
 			"blog": "",
 			"blogrss": "",
-			"logo": "",
+			"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bugswarm-logo.png",
 			"logo_width": "150",
 			"screenshot": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/api/screenshots/7558_bugswarm.png",
 			"tags": "Data,Device,Internet of Things - Dead,Management"
@@ -153,8 +138,8 @@
 		{
 			"id": "3767",
 			"name": "Channel IQ",
-			"summary": false,
-			"details": "",
+			"summary": "Channel IQ is the leading provider of online retail intelligence, channel management, and brand protection solutions to manufacturers and retailers. Channel IQ provides on-demand online promotion and pricing information, empowering major manufacturers and retailers to quickly and profitably handle channel issues and competitive situations. Only Channel IQ combines integrated reporting, interactive",
+			"details": "Channel IQ is the leading provider of online retail intelligence, channel management, and brand protection solutions to manufacturers and retailers. Channel IQ provides on-demand online promotion and pricing information, empowering major manufacturers and retailers to quickly and profitably handle channel issues and competitive situations. Only Channel IQ combines integrated reporting, interactive applications and automated solutions to enable clients to act on their data. Channel IQ solutions are the result of cutting edge technology combined with decades of industry experience in channel management, distribution, online retail and manufacturing.",
 			"website": "http://www.channeliq.com/",
 			"twitter": "https://twitter.com/ChannelIQ",
 			"github": "",
