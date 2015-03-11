@@ -41,8 +41,10 @@ title: Companies
 <script type="text/javascript">
 function listCompanies()
     {
+    console.log("1");	
     $.getJSON('/data/companies.json', function(data) {
         toggle = 0;
+        console.log("2");
          $.each(data['company'], function(key, val) {
          	
          	
