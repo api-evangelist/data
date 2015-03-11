@@ -108,8 +108,8 @@
 		{
 			"id": "1388",
 			"name": "Bugswarm",
-			"summary": "Acquire data from and control embedded devices using JavaScript or plain old HTTP.",
-			"details": "Acquire data from and control embedded devices using JavaScript or plain old HTTP.",
+			"summary": "Acquire data from and control embedded devices using JavaScript or plain old HTTP. Combine multiple resources together to create a swarm. Once a member of a swarm, a resource can communicate and share data with other resources in that swarm. Control the level of access a resource has to a swarm. Grant a resource permission to produce data, consume data, or do both. Invite another user's resources ",
+			"details": "Acquire data from and control embedded devices using JavaScript or plain old HTTP. Combine multiple resources together to create a swarm. Once a member of a swarm, a resource can communicate and share data with other resources in that swarm. Control the level of access a resource has to a swarm. Grant a resource permission to produce data, consume data, or do both. Invite another user's resources into your swarms and accept invitations to place your resources in somebody else's swarms. Share your data easily and securely.",
 			"website": "http://developer.bugswarm.net/index.html",
 			"twitter": "",
 			"github": "",
@@ -151,36 +151,6 @@
 			"tags": "Chicago,Data"
 		},
 		{
-			"id": "839",
-			"name": "City of London",
-			"summary": "The London Datastore has been created by the Greater London Authority (GLA) as an innovation towards freeing London&rsquo;s data. We want citizens to be able access the data that the GLA and other public sector organisations hold, and to use that data however they see fit &ndash; free of charge. The GLA is committed to influencing and cajoling other public sector organisations into releasing their",
-			"details": "The London Datastore has been created by the Greater London Authority (GLA) as an innovation towards freeing London&rsquo;s data. We want citizens to be able access the data that the GLA and other public sector organisations hold, and to use that data however they see fit &ndash; free of charge. The GLA is committed to influencing and cajoling other public sector organisations into releasing their data here too.",
-			"website": "http://data.london.gov.uk/datastore",
-			"twitter": "https://twitter.com/londondatastore",
-			"github": "",
-			"blog": "",
-			"blogrss": "",
-			"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/city-of-london-logo.png",
-			"logo_width": "150",
-			"screenshot": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/api/screenshots/4020_london_datastore.png",
-			"tags": "Data,Datasets,Government,London"
-		},
-		{
-			"id": "10262",
-			"name": "Civic Data Challenge",
-			"summary": false,
-			"details": "",
-			"website": "",
-			"twitter": "https://twitter.com/civicdata",
-			"github": "",
-			"blog": "",
-			"blogrss": "",
-			"logo": "",
-			"logo_width": "150",
-			"screenshot": null,
-			"tags": "Data,Events"
-		},
-		{
 			"id": "1298",
 			"name": "Clever",
 			"summary": "The Clever API allows education software developers to access real-time school data from Student Information Systems. The Clever API is built around the concepts of representational state transfer (REST). All communication with the API is done through HTTPS, and errors are communicated through HTTP response codes. All requests return JSON. Using PHP, Python, Ruby, or JavaScript?",
@@ -194,21 +164,6 @@
 			"logo_width": "140",
 			"screenshot": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/api/screenshots/6854_clever.png",
 			"tags": "Data,Education,Education-Stack"
-		},
-		{
-			"id": "1255",
-			"name": "Cloudant",
-			"summary": false,
-			"details": "",
-			"website": "https://cloudant.com/",
-			"twitter": "https://twitter.com/cloudant",
-			"github": "https://github.com/cloudant",
-			"blog": "http://blog.cloudant.com/",
-			"blogrss": "https://cloudant.com/?feed=cloudant",
-			"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1255_logo.jpg",
-			"logo_width": "160",
-			"screenshot": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/api/screenshots/6489_cloudant.png",
-			"tags": "Cloud,Cloud Storage,Cloud-Stack,Data,Database-Stack,Editing"
 		},
 		{
 			"id": "388",
@@ -271,21 +226,6 @@
 			"tags": "Data,Data-Stack,Spreadsheets"
 		},
 		{
-			"id": "751",
-			"name": "data.gov.au",
-			"summary": false,
-			"details": "",
-			"website": "http://data.gov.au/",
-			"twitter": "",
-			"github": "",
-			"blog": "",
-			"blogrss": "",
-			"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dga.png",
-			"logo_width": "150",
-			"screenshot": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/api/screenshots/3595_data.gov.au.png",
-			"tags": "Australia,Australia government data,Australian Government,Data,Datasets,Government"
-		},
-		{
 			"id": "2158",
 			"name": "DataDeck.io",
 			"summary": "An API that lets you build whatever you dream up. We provide a clean and easy-to-use API and let you figure out how you want to use them.",
@@ -296,21 +236,6 @@
 			"blog": "",
 			"blogrss": "",
 			"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/datadeckio-logo.png",
-			"logo_width": "150",
-			"screenshot": null,
-			"tags": "Data"
-		},
-		{
-			"id": "2325",
-			"name": "DataGotham",
-			"summary": false,
-			"details": "",
-			"website": "",
-			"twitter": "https://twitter.com/datagotham",
-			"github": "",
-			"blog": "",
-			"blogrss": "",
-			"logo": "",
 			"logo_width": "150",
 			"screenshot": null,
 			"tags": "Data"
@@ -333,8 +258,8 @@
 		{
 			"id": "11324",
 			"name": "DataMade",
-			"summary": false,
-			"details": "",
+			"summary": "DataMade is a civic technology company. We build open source technology using open data to empower journalists, researchers, governments and advocacy organizations. DataMade was born out of Chicago's Open Government community. In 2011, Derek and Forest started working on civic technology as volunteers of Open City. At nights and over weekends, they've helped make civic apps like Chicago Lobbyists,",
+			"details": "DataMade is a civic technology company. We build open source technology using open data to empower journalists, researchers, governments and advocacy organizations. DataMade was born out of Chicago's Open Government community. In 2011, Derek and Forest started working on civic technology as volunteers of Open City. At nights and over weekends, they've helped make civic apps like Chicago Lobbyists, Clear Streets, and Second City Zoning.",
 			"website": "http://datamade.us/",
 			"twitter": "https://twitter.com/DataMadeCo",
 			"github": "https://github.com/datamade",
@@ -466,21 +391,6 @@
 			"tags": "Business-Stack,Businesses,Data,Data-Stack,Geo,Location,Places"
 		},
 		{
-			"id": "11530",
-			"name": "Freebase.com",
-			"summary": false,
-			"details": "",
-			"website": "http://www.freebase.com/",
-			"twitter": "https://twitter.com/fbase",
-			"github": "",
-			"blog": "",
-			"blogrss": "",
-			"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/freebase-logo.png",
-			"logo_width": "150",
-			"screenshot": null,
-			"tags": "Content,Data,Data-Stack,Information,Information-Stack"
-		},
-		{
 			"id": "2012",
 			"name": "GenoLogics",
 			"summary": false,
@@ -526,25 +436,10 @@
 			"tags": "Analytics,Business,Data,Data-Stack,Enterprise"
 		},
 		{
-			"id": "2944",
-			"name": "GovTribe",
-			"summary": false,
-			"details": "",
-			"website": "http://govtribe.com/",
-			"twitter": "https://twitter.com/govtribe",
-			"github": "",
-			"blog": "http://govtribe.com/blog/",
-			"blogrss": "http://govtribe.com/blog?format=rss",
-			"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/govtribe-logo.png",
-			"logo_width": "150",
-			"screenshot": null,
-			"tags": "Data,Federal Government,Federal-Stack,Government"
-		},
-		{
 			"id": "1539",
 			"name": "IKANOW",
-			"summary": false,
-			"details": "",
+			"summary": "eady to gain some traction with open source analytics? IKANOW&rsquo;s Community Edition lets you tap into unstructured and structured data. This powerful open source analytics delivers cutting-edge ingest, search, useful data widgets and export features in an open, self-supported platform. This powerful tool integrates with third-party applications to provide an all-in-one solution for open source",
+			"details": "eady to gain some traction with open source analytics? IKANOW&rsquo;s Community Edition lets you tap into unstructured and structured data. This powerful open source analytics delivers cutting-edge ingest, search, useful data widgets and export features in an open, self-supported platform. This powerful tool integrates with third-party applications to provide an all-in-one solution for open source data analytics. Click here to learn the difference between Community and Enterprise editions.",
 			"website": "http://www.ikanow.com/developer/",
 			"twitter": "https://twitter.com/ikanowdata",
 			"github": "https://github.com/IKANOW",
@@ -766,21 +661,6 @@
 			"tags": "ActionScript,Data,Financial,Financial Data,Tracking"
 		},
 		{
-			"id": "366",
-			"name": "MasterCard DevZone",
-			"summary": "As a critical link among financial institutions and millions of businesses, cardholders and merchants worldwide, MasterCard provides services in more than 210 countries and territories. MasterCard advances commerce worldwide by developing more secure, convenient and rewarding payment solutions, processing billions of payments seamlessly across the globe, and building economic connections that acce",
-			"details": "As a critical link among financial institutions and millions of businesses, cardholders and merchants worldwide, MasterCard provides services in more than 210 countries and territories. MasterCard advances commerce worldwide by developing more secure, convenient and rewarding payment solutions, processing billions of payments seamlessly across the globe, and building economic connections that accelerate business.",
-			"website": "https://developer.mastercard.com/",
-			"twitter": "https://twitter.com/MasterCardDev",
-			"github": "https://github.com/MasterCard",
-			"blog": "https://developer.mastercard.com/portal/display/blogs/Developer+Blogs",
-			"blogrss": "",
-			"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/366_logo.png",
-			"logo_width": "125",
-			"screenshot": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/api/screenshots/7921_mastercard_repower.png",
-			"tags": "ATM,Coupons,Data,E-commerce,Finance,Financial-Stack,Hosting,Merchant,Merchants,Offers,Payment-API,Payments,Places,Search,Shopping,Shopping"
-		},
-		{
 			"id": "1343",
 			"name": "nimbix",
 			"summary": false,
@@ -809,36 +689,6 @@
 			"logo_width": "150",
 			"screenshot": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/api/screenshots/8008_oipa:_openaid_iati.png",
 			"tags": "Aid,Aids,Data,Database,Development,International"
-		},
-		{
-			"id": "1820",
-			"name": "Openclipart",
-			"summary": false,
-			"details": "",
-			"website": "http://openclipart.org/developers",
-			"twitter": "",
-			"github": "",
-			"blog": "",
-			"blogrss": "",
-			"logo": "",
-			"logo_width": "150",
-			"screenshot": null,
-			"tags": "Clipart,Data"
-		},
-		{
-			"id": "878",
-			"name": "OpenColorado",
-			"summary": "OpenColorado is working to make public data available and accessible to the citizens of Colorado. Our vision is to support a transformation that will lead to a simple, beautiful, and easy-to-use government. We founded OpenColorado to achieve this new, more effective, and open government. This site provides access to a wealth of government data becoming available from participating jurisdictions.",
-			"details": "OpenColorado is working to make public data available and accessible to the citizens of Colorado. Our vision is to support a transformation that will lead to a simple, beautiful, and easy-to-use government. We founded OpenColorado to achieve this new, more effective, and open government. This site provides access to a wealth of government data becoming available from participating jurisdictions.",
-			"website": "http://opencolorado.org",
-			"twitter": "https://twitter.com/opencolorado",
-			"github": "https://github.com/opencolorado",
-			"blog": "http://opencolorado.org/blog/",
-			"blogrss": "http://opencolorado.org/feed/",
-			"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/OpenColorado.png",
-			"logo_width": "150",
-			"screenshot": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/api/screenshots/4235_opencolorado.png",
-			"tags": "Colorado,Data,Government,Open,State Government,State-Stack"
 		},
 		{
 			"id": "2716",
@@ -1021,36 +871,6 @@
 			"tags": "Contact Management,Data,People,RapLeaf,Social Data"
 		},
 		{
-			"id": "911",
-			"name": "RI.gov Open Data",
-			"summary": "The RI.gov portal team is committed to making RI.gov links, as well as many other data sets available to the general public. We invite you to browse the data sets below and create something!",
-			"details": "The RI.gov portal team is committed to making RI.gov links, as well as many other data sets available to the general public. We invite you to browse the data sets below and create something!",
-			"website": "http://www.ri.gov",
-			"twitter": "",
-			"github": "",
-			"blog": "",
-			"blogrss": "",
-			"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ri-gov.png",
-			"logo_width": "150",
-			"screenshot": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/api/screenshots/4411_ri.gov_open_data.png",
-			"tags": "Data,Datasets,Government,State,State Government,State-Stack"
-		},
-		{
-			"id": "247",
-			"name": "ScraperWiki",
-			"summary": "ScraperWiki is a web-based platform for collaboratively building programs to extract and analyze public (online) data, in a wiki-like fashion. Scraper refers to screen scrapers, programs that extract data from websites. Wiki means that any user with programming experience can create or edit such programs for extracting new data, or for analyzing existing datasets. The main use of the website is pr",
-			"details": "ScraperWiki is a web-based platform for collaboratively building programs to extract and analyze public (online) data, in a wiki-like fashion. Scraper refers to screen scrapers, programs that extract data from websites. Wiki means that any user with programming experience can create or edit such programs for extracting new data, or for analyzing existing datasets. The main use of the website is providing a place for programmers and journalists to collaborate on analyzing public data",
-			"website": "https://scraperwiki.com/",
-			"twitter": "https://twitter.com/scraperwiki",
-			"github": "https://github.com/scraperwiki",
-			"blog": "https://blog.scraperwiki.com/blog/",
-			"blogrss": "https://blog.scraperwiki.com/feed/",
-			"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/798px-ScraperWiki_logo.png",
-			"logo_width": "175",
-			"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/api/ScraperWiki-Screenshot.png",
-			"tags": "API-Scraping-Deployment,API-United-Kingdom,Data,Hacker Storytelling,Harvesting,Scraping,Spreadsheets"
-		},
-		{
 			"id": "1234",
 			"name": "Simperium",
 			"summary": false,
@@ -1064,21 +884,6 @@
 			"logo_width": "150",
 			"screenshot": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/api/screenshots/6408_simperium.png",
 			"tags": "Data,Freshbooks,Nyc,Programming"
-		},
-		{
-			"id": "3689",
-			"name": "Smart Chicago",
-			"summary": false,
-			"details": "",
-			"website": "http://www.smartchicagocollaborative.org/",
-			"twitter": "https://twitter.com/SmartChicago",
-			"github": "https://github.com/smartchicago",
-			"blog": "http://www.smartchicagocollaborative.org/archives/",
-			"blogrss": "http://www.smartchicagocollaborative.org/feed/",
-			"logo": "",
-			"logo_width": "150",
-			"screenshot": null,
-			"tags": "Chicago,Data"
 		},
 		{
 			"id": "24",
