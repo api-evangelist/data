@@ -1053,8 +1053,8 @@
 		{
 			"id": "247",
 			"name": "ScraperWiki",
-			"summary": "ScraperWiki is a web-based platform for collaboratively building programs to extract and analyze public (online) data, in a wiki-like fashion. "Scraper" refers to screen scrapers, programs that extract data from websites. "Wiki" means that any user with programming experience can create or edit such programs for extracting new data, or for analyzing existing datasets. The main use of the website i",
-			"details": "ScraperWiki is a web-based platform for collaboratively building programs to extract and analyze public (online) data, in a wiki-like fashion. "Scraper" refers to screen scrapers, programs that extract data from websites. "Wiki" means that any user with programming experience can create or edit such programs for extracting new data, or for analyzing existing datasets. The main use of the website is providing a place for programmers and journalists to collaborate on analyzing public data",
+			"summary": "ScraperWiki is a web-based platform for collaboratively building programs to extract and analyze public (online) data, in a wiki-like fashion. Scraper refers to screen scrapers, programs that extract data from websites. Wiki means that any user with programming experience can create or edit such programs for extracting new data, or for analyzing existing datasets. The main use of the website is pr",
+			"details": "ScraperWiki is a web-based platform for collaboratively building programs to extract and analyze public (online) data, in a wiki-like fashion. Scraper refers to screen scrapers, programs that extract data from websites. Wiki means that any user with programming experience can create or edit such programs for extracting new data, or for analyzing existing datasets. The main use of the website is providing a place for programmers and journalists to collaborate on analyzing public data",
 			"website": "https://scraperwiki.com/",
 			"twitter": "https://twitter.com/scraperwiki",
 			"github": "https://github.com/scraperwiki",
