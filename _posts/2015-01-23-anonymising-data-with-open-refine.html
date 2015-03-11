@@ -1,0 +1,12 @@
+---
+layout: post
+title: 'Anonymising Data With Open Refine'
+url: http://blog.ouseful.info/2015/01/23/anonymising-data-with-open-refine/
+source: http://blog.ouseful.info/2015/01/23/anonymising-data-with-open-refine/
+domain: blog.ouseful.info
+image: 
+---
+
+<p>Whilst preparing for what turned out to be a very enjoyable data at the BBC Data Data in Birmingham on Tuesday, where I ran a session on Open Refine [slides] I’d noticed that one of the transformations Open Refine supports is hashing using either MD5 or SHA-1 algorithms.What these functions essentially do is map a value, such as a name or personal identifier, on to what looks like a random number.The mapping is one way, so give the hash value of a name or personal identifier, you can’t go back to the original.(The way the algorithms work means that there is also a very slight possibility that two different original values will map on to the same hashed value which may in turn cause errors when analysing the data.)
+We can generate the hash of values in a column by transforming the column using the formula md5(value) or sha1(value).</p>
+
