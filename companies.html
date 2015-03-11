@@ -44,12 +44,16 @@ function listCompanies()
     $.getJSON('/data/companies.json', function(data) {
         toggle = 0;
          $.each(data['company'], function(key, val) {
+         	
+         	
             var template = $('#companyListingTemplate').html();
             var html = Mustache.to_html(template, val);
             $('#companyListing').append(html);     
                         
             id = val['id'];
             website = val['website'];
+            name = val['name'];            
+            console.log(name);
             //alert(website);
             if(website.length>0){ document.getElementById("home-logo-link-"+id).href=website; }               
             if(website.length>0){ document.getElementById("home-name-link-"+id).href=website; }              
