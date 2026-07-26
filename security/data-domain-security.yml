@@ -1,0 +1,39 @@
+generated: '2026-07-18'
+method: probed
+source: dig (DNS) + TLS/HTTP HEAD probe
+note: >-
+  Public hosts for data.eco (Alibaba Cloud IPs) did not accept TLS/HTTP
+  connections from this vantage point (connection timeout / refused on 443) at
+  probe time, so HTTPS reachability, TLS version, cert expiry, and HSTS could not
+  be observed. DNS-level facts below are real and complete. Absence of a record
+  (no CAA, no SPF, no DMARC policy, no DNSSEC) is recorded as observed data, not
+  a probe failure.
+hosts:
+  - host: data.eco
+    ip: 47.75.45.50
+    https: false
+    reachable: false
+    tls_version: null
+    cert_expiry: null
+    hsts: null
+    hsts_max_age: null
+  - host: docs.data.eco
+    ip: 47.75.153.56
+    https: false
+    reachable: false
+    tls_version: null
+    cert_expiry: null
+    hsts: null
+    hsts_max_age: null
+domains:
+  - domain: data.eco
+    dnssec: false
+    caa: []
+    spf: false
+    dmarc: false
+    dmarc_policy: null
+    mx: true
+    mx_provider: google-workspace
+    txt_records:
+      - "qqdlt7bphj94c74fsruincgj6i"
+      - "lnf67bhbglklqvpgdjhaag4evs"

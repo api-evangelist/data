@@ -1,4 +1,16 @@
 aid: data
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/data.png
 name: Data
 description: 'Data is a company surfaced as a portfolio company of pantera-capital and added to the API
   Evangelist network as a stub for enrichment. Sector: crypto. This profile is a lead awaiting the enrichment
@@ -12,7 +24,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Crypto
@@ -25,3 +37,10 @@ maintainers:
 common:
 - type: Website
   url: http://data.eco/
+- type: DomainSecurity
+  url: security/data-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
